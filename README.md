@@ -43,7 +43,8 @@ The script supports fetching subtitles in specified languages, including or excl
    ```env
    YOUTUBE_API_KEY=your_youtube_api_key_here
    ```
-
+   Procedure to obtain a youtube API Key : https://sohitmishra.medium.com/how-to-obtain-a-youtube-api-key-for-your-project-edc89877783a
+   
 ## Usage
 
 The script provides several command-line arguments to customize its behavior. Below are some example usages:
